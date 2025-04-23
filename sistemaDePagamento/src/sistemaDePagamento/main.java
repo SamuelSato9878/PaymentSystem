@@ -12,8 +12,6 @@ public class main {
         System.out.println("2 - Crédito (taxa de 5%)");
         System.out.print("Escolha: ");
         int opcao = scanner.nextInt();
-        
-        System.out.println("hello");
 
         switch (opcao) {
             case 1:
